@@ -1,6 +1,6 @@
-# Processo tradicional onde é instalado o jenkins na instancia.
+# Processo tradicional
 
-<h3>automático via terraform</h3>
+<h3>Onde é instalado o jenkins na instancia automáticamente via terraform</h3>
 
 <h3>Colaboradores</h3>
 
