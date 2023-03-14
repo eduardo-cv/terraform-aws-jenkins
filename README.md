@@ -1,6 +1,6 @@
 # Pré-requisitos - [Terraform - AWS - Jenkins v1]
 
-<h3> Obs: O arquivo <b>"variaveis-config.tf"</b> e o lugar para vc configurar o que deseja para sua infra.<h3>
+<h3> Obs: Segue os modelos a sua escolha para o projeto<h3>
 
 1. Uma conta ativa da AWS.
 
@@ -13,9 +13,7 @@
 - Eduardo C.
 - Gerlucio Moura
 
-<h3>Laboratório - Jenkins</h3>
-
-1 - Criar um bucket na região da virginia Exemplo <b>"terraform-state-seu-projeto"</b> e depois substituir no arquivo <b>"main.tf"</b>
+<h3>Laboratório - Jenkins Instancia</h3>
 
 <h3>Espero que tenha ajudado a entender o modelo que serve como base para criar sua infra.</h3>
 
