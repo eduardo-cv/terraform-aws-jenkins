@@ -5,6 +5,6 @@ USER jenkins
 ENV JAVA_HOME /usr/lib/jvm/java-11-openjdk-amd64
 
 # docker build -t eduardo/jenkins .
-# docker run -d -t -p 8080:8080 eduardo/jenkins
+# docker run -d -t -p 8080:8080 eduardo/jenkins:0.1.0
 # docker ps
 # docker logs <nome_image>
