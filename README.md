@@ -1,6 +1,6 @@
 # Pré-requisitos - [Terraform - AWS - Jenkins v1]
 
-<h3> Obs: Segue os modelos a sua escolha para o projeto<h3>
+<h3> Escolha o modelo que mais lhe agrada<h3>
 
 1. Uma conta ativa da AWS.
 
