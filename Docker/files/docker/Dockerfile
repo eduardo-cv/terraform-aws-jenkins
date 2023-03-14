@@ -1,0 +1,10 @@
+FROM jenkins/jenkins:2.387.1-lts-jdk11
+USER root
+RUN apt-get update && apt-get install -y make git openjdk-11-jdk
+USER jenkins
+ENV JAVA_HOME /usr/lib/jvm/java-11-openjdk-amd64
+
+# docker build -t eduardo/jenkins .
+# docker run -d -t -p 8080:8080 eduardo/jenkins
+# docker ps
+# docker logs <nome_image>
