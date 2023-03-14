@@ -2,6 +2,8 @@
 
 <h3>Onde é instalado o docker na instancia automáticamente via terraform</h3>
 
+Basta colocar o arquivo docker na instancia e rodar.
+
 <h3>Colaboradores</h3>
 
 - Eduardo C.
