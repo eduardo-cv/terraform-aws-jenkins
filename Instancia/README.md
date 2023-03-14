@@ -1,6 +1,4 @@
-# Pré-requisitos - [Terraform - AWS - Jenkins v1]
-
-<h3> Processo tradicional onde é instalado o jenkins.<h3>
+# Processo tradicional onde é instalado o jenkins na instancia automático via terraform.
 
 <h3>Colaboradores</h3>
 
