@@ -1,5 +1,7 @@
 # Pré-requisitos - [Terraform - AWS - Jenkins - Docker - Kubernetes v1 ]
 
+Video : https://youtu.be/7Zlo2K_Sskk
+
 <h3>Escolha o modelo mais aconselhável para seu cenário.<h3>
 
 1. Instancia
