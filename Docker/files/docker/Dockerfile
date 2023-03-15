@@ -12,4 +12,4 @@ ENV JAVA_HOME /usr/lib/jvm/java-11-openjdk-amd64
 #     -v jenkins_backup_1:/srv/backup \
 #     eduardo/jenkins:0.1.0
 # docker ps
-# docker logs <nome_image>
+# docker logs <part da id>
