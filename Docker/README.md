@@ -4,8 +4,6 @@
 
 Basta colocar o arquivo docker na instancia e rodar.
 
-Criar volume
-
 <h3>Colaboradores</h3>
 
 - Eduardo C.
