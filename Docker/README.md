@@ -8,6 +8,7 @@ Basta colocar o arquivo docker na instancia e rodar.
 
 - Eduardo C.
 - Gerlucio Moura
+- Edinaldo Vieira
 
 <h3>Laboratório - Jenkins Docker</h3>
 
