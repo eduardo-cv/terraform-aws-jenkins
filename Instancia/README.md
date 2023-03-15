@@ -6,6 +6,7 @@
 
 - Eduardo C.
 - Gerlucio Moura
+- Edinaldo Vieira
 
 <h3>Laboratório - Jenkins Instancia</h3>
 
