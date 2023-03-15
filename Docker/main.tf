@@ -10,13 +10,16 @@ terraform {
     }
     http = ">= 3.2.1"
   }
+# Como criar um buckut via cli
+# aws s3api create-bucket --bucket "terraform-state-eduardo-dev" --region "us-east-1"
+
   # Remote-State
-  # backend "s3" {
-  #   region  = "us-east-1"
-  #   bucket  = "terraform-state-docker" # Trocar aqui pelo seu bucket
-  #   key     = "dev/v1/docker/terraform.tfstate"
-  #   encrypt = true
-  # }
+  backend "s3" {
+    region  = "us-east-1"
+    bucket  = "terraform-state-eduardo-dev" # Trocar aqui pelo seu bucket
+    key     = "dev/v1/docker/terraform.tfstate"
+    encrypt = true
+  }
 }
 ##########################################################
 #  Provedor AWS
