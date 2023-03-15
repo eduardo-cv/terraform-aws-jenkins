@@ -1,4 +1,4 @@
-# Pré-requisitos - [Terraform - AWS - Jenkins v1]
+# Pré-requisitos - [Terraform - AWS - Jenkins - Docker - Kubernetes v1 ]
 
 <h3>Escolha o modelo mais aconselhável para seu cenário.<h3>
 
