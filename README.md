@@ -12,6 +12,7 @@
 
 - Eduardo C.
 - Gerlucio Moura
+- Edinaldo Vieira
 
 <h3>Laboratório - Jenkins</h3>
 
