@@ -6,7 +6,7 @@
 
 2. Docker
 
-3. Rancher
+3. Rancher (Em breve)
 
 <h3>Colaboradores</h3>
 
